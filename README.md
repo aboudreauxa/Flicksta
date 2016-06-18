@@ -41,11 +41,12 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.imgur.com/RJ0QMxb.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/RJ0QMxb' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
+    I tried copying the image video address but did not display as a gif, so instead I have included a link which goes to Imgur.
 
 Describe any challenges encountered while building the app.
 

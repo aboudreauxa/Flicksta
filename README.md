@@ -46,7 +46,7 @@ Here's a walkthrough of implemented user stories:
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
-    I tried copying the image video address but did not display as a gif, so instead I have included a link which goes to Imgur.
+    I tried copying the image video address but did not display as a gif, so instead I have included a link which goes to Imgur. Here is the link address: https://imgur.com/RJ0QMxb
 
 Describe any challenges encountered while building the app.
 
